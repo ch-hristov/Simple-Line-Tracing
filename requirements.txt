@@ -1,0 +1,5 @@
+opencv-python
+numba
+tqdm
+numpy
+Pillow
